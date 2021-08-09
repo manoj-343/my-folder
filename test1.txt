@@ -1,2 +1,4 @@
 First Line added in Local Master
 Second Line added to test git diff
+Third Line added
+Fourth Line added in Local b1
